@@ -254,6 +254,6 @@ module.exports = function(options = {}) {
     if (options.ligatures) {
       addUtilities(ligaturesUtilities, ligaturesVariants);
     }
-    addComponents(textStyles);
+    addUtilities(textStyles, ['responsive']);
   };
 };
