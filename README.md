@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm install tailwindcss-typography
+npm install enginedigital/tailwindcss-typography
 ```
 
 ## Usage
